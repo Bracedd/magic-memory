@@ -1,4 +1,4 @@
-# Magic Memoey #
+# Magic Memory #
 
 Magic Memory is a fun and interactive memory matching game built with React. The objective is to match pairs of cards by flipping them and testing your memory!
 
